@@ -5,5 +5,4 @@
 ## External codes we used
 * <a href='https://scrollrevealjs.org/' target='_blank'>ScrollReveal</a>
 * <a href='https://github.com/shinsenter/defer.js/' target='_blank'>defer.js</a>
-* <a href='https://codebyzach.github.io/pace/' target='_blank'>Pace</a>
 
