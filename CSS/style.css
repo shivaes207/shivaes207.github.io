@@ -50,6 +50,7 @@ body{
     height: 90px;
     border-radius: 50%;
     border: 5px solid blue;
+    object-fit: cover;
 }
 .social{
     width: 180px;
